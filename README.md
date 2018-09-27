@@ -1,0 +1,2 @@
+# azurelab
+Demo for Azure
